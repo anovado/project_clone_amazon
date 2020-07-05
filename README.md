@@ -1,6 +1,6 @@
 # Project Clone Amazon
 
-#### by: Andre Novado, Nur Yasin Janaharto, Syah Rizal Pamungkas
+#### Developer: Andre Novado, Nur Yasin Janaharto, Syah Rizal Pamungkas
 
 The purpose of this project is to clone [Amazon](https://www.amazon.com) website.
 This project is created using:
