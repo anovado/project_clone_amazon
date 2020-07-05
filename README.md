@@ -1,9 +1,19 @@
-# andre_rizal_yasin_pythonanywhere
-A repo for uploading repo andre_rizal_yasin to pythonanywhere
+# Project Clone Amazon
 
+#### by: Andre Novado, Nur Yasin Janaharto, Syah Rizal Pamungkas
 
-AMAZON REPLICA PROJECT
+The purpose of this project is to clone [Amazon](https://www.amazon.com) website.
+This project is created using:
+- Front End:
+  - Python Jinja
+  - HTML, CSS
+  - Bootstrap
+- Back End:
+  - Python Django
+- Database:
+  - MySQL
 
-by: Andre Novado, Nur Yasin Janaharto, Syah Rizal Pamungkas
-
-This repository was created for a team-project task during a software-engineer bootcamp in Alterra Academy. We were asked to replicate the Amazon website using HTML, CSS ( + Bootstrap), and Django.
+We tried to replicate part of the amazon's main feature including:
+- User Login
+- User Registration
+- Search Product by name or category
